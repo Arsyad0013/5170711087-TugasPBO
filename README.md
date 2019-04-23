@@ -85,7 +85,7 @@ public class Pewarisan {
 
  
 
-•	Jika ingin menjalankan program di atas maka kita harus mengkompile terlebih dahulu dengan mengklik lampu kuning disamping sebelah kiri..
+•	Jika ingin menjalankan program di atas maka kita harus mengkompile terlebih dahulu
 
 
 
